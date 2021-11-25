@@ -5,6 +5,7 @@ I got the assignment to make the method "shortestPath" that takes a matrix, and 
 
 The Starting point will always be [1] [1]
 and the Destinaton will always be [height-2] [width -2]
+if there is no path it has to return Integer.MAX-VALUE.
 
 The "maze test class" is what i run to test if my "maze" "shortestPath" method works. 
 
